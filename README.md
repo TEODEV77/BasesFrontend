@@ -100,3 +100,45 @@ Listas ordenadas **(ol)** y no ordenadas **(ul)** para organizar elementos de ma
 
 Formularios **(form)** permiten a los usuarios enviar datos al servidor web. Pueden contener campos de entrada, botones y otros elementos interactivos.
 
+# Estructura básica de un documento HTML
+
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+```
+# Doctype
+
+### Informa al navegador qué versión de HTML (o XML) se usó para escribir el documento.
+
+# !DOCTYPE html 
+
+### Esta es la declaración estándar que indica que el documento está escrito en HTML5.
+
+# html
+
+### Envuelve todo el contenido de la página y define que es un documento HTML
+
+# head 
+
+### Contiene metadatos e información sobre el documento, como el título de la página, enlaces a hojas de estilo CSS, scripts y otras configuraciones.
+
+# meta
+
+### Proporciona metadatos adicionales sobre el documento, como el conjunto de caracteres utilizado, descripciones, palabras clave, etc.
+
+# title
+
+### Define el título de la página que se mostrará en la barra de título del navegador o en la pestaña del sitio.
+
+# body
+
+### Contiene todo el contenido visible de la página, como texto, imágenes, enlaces, formularios, etc.
