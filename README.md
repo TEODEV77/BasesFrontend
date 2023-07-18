@@ -90,13 +90,13 @@ Los elementos HTML pueden anidarse dentro de otros elementos, lo que permite cre
 
 ### Enlaces
 
-HTML permite crear enlaces (<a>) para conectar diferentes páginas web entre sí o para redirigir a los usuarios a otras ubicaciones en el mismo sitio.
+HTML permite crear enlaces **(a)** para conectar diferentes páginas web entre sí o para redirigir a los usuarios a otras ubicaciones en el mismo sitio.
 
 ### Listas
 
-Listas ordenadas (<ol>) y no ordenadas (<ul>) para organizar elementos de manera secuencial.
+Listas ordenadas **(ol)** y no ordenadas **(ul)** para organizar elementos de manera secuencial.
 
 ### Formularios
 
-Formularios (<form>) permiten a los usuarios enviar datos al servidor web. Pueden contener campos de entrada, botones y otros elementos interactivos.
+Formularios **(form)** permiten a los usuarios enviar datos al servidor web. Pueden contener campos de entrada, botones y otros elementos interactivos.
 
