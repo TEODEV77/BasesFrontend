@@ -1,14 +1,24 @@
 # Bases Frontend
 
+Un desarrollador frontend es un profesional de la programación y el desarrollo de software especializado en la creación de la interfaz de usuario
+
+Su principal enfoque está en la parte del cliente (front-end) de una aplicación, es decir, todo lo que el usuario ve y con lo que interactúa directamente en el navegador web.
+
 ## Links
 
 - [HTML reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - [CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Keyword_index)
 - [WEB APIs](https://developer.mozilla.org/en-US/docs/Web/API)
+- [Can I use](https://caniuse.com/)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
-Un desarrollador frontend es un profesional de la programación y el desarrollo de software especializado en la creación de la interfaz de usuario
+# Validadores W3C
 
-Su principal enfoque está en la parte del cliente (front-end) de una aplicación, es decir, todo lo que el usuario ve y con lo que interactúa directamente en el navegador web.
+- [W3C validator](https://validator.w3.org) 
+- [CSS validator](https://jigsaw.w3.org/css-validator)
+- [CSS validator](https://jigsaw.w3.org/css-validator)
+- [Link checker](https://validator.w3.org/checklink)
+
 
 ##  Responsabilidades de un desarrollador frontend 
 
