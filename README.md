@@ -11,6 +11,7 @@ Su principal enfoque está en la parte del cliente (front-end) de una aplicació
 - [WEB APIs](https://developer.mozilla.org/en-US/docs/Web/API)
 - [Can I use](https://caniuse.com/)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
+- [HTML Semantic](https://github.com/TEODEV77/HTMLSemantic)
 
 # Validadores W3C
 
